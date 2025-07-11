@@ -1,0 +1,6 @@
+[submodule "Lib/Canbus"]
+	path = Lib/Canbus
+	url = https://github.com/dadai1214/Canbus.git
+[submodule "Lib/SwFileThread"]
+	path = Lib/SwFileThread
+	url = https://github.com/dadai1214/SwFileThread.git
